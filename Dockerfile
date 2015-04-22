@@ -1,6 +1,6 @@
 FROM ubuntu:14.10
 
-MAINTAINER Auke Willem Oosterhoff <awooosterhoff@gmail.com>
+MAINTAINER Auke Willem Oosterhoff <awoosterhoff@gmail.com>
 
 RUN apt-get update && \
     apt-get install -y \
